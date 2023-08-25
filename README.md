@@ -1,5 +1,5 @@
 # CAFA-5-Protein-Function-Prediction
-This is the code related to [the Kaggle competition](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction).
+This is the code for [the Kaggle CAFA 5 Protein Function Prediction competition](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction).
 
 ## Background
 The Gene Ontology (GO) is a concept hierarchy that describes the biological function of genes and gene products at different levels of abstraction (Ashburner et al., 2000). It is a good model to describe the multi-faceted nature of protein function.
